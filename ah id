@@ -1,8 +1,0 @@
-
-local ID = 4375619868
-
-if game.PlaceId == ID then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sugar14Daddy/xyz/main/--kh", true))()
-else
-game.Players.LocalPlayer:Kick("(Game Not Supported) Credits + Blood ")
-end
